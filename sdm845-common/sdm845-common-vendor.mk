@@ -832,8 +832,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     ImsRcsService \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
     QtiTelephonyService \
     uceShimService \
     WfdService \
